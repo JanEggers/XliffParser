@@ -8,7 +8,6 @@
 
     <ItemGroup>
         <PackageReference Include="fmdev.ResX" Version="0.3.2" />
-        <PackageReference Include="StyleCop.Analyzers" Version="1.0.0" />
     </ItemGroup>
 
     <ItemGroup>
